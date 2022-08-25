@@ -1,5 +1,5 @@
 import os
-F_DIR="D:\\Users\\Shivam Garg\\Documents\\Chrome Passwords.csv"
+F_DIR="<Your file path>"
 f=open(F_DIR,'r')
 con=f.read()
 f.close()
