@@ -8,6 +8,6 @@ con=con.split("\n")
 for i in con:
 	x=i.split(",")
 	if URL in i:
-		print(x) #printig
+		print(x) #displaying value of matched row
 
 
